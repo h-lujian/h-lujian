@@ -10,6 +10,8 @@ My name is 「黃路漸」(Huáng Lù-jiān, /xwɑŋ35 lu51-tɕjɛn55/) in Chine
 
 📫 You can reach me via [mailing](mailto:lujianje+zju.edu.cn).
 
+GPG Key: A708 0E31 7491 3F8D
+
 ⚡ Interested in cycling and navy.
 
 Sapiens ægre fert excedere vita quin suum nomen sit laude dignum.
